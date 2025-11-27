@@ -1,0 +1,37 @@
+export const ToastMessages = {
+    DUPLICATE_USER: 'Failed: Error: username is already in use. Try another username.',
+    DUPLICATE_ACCOUNT: 'Failed: Account name is already in use. Try another account name.',
+    ACCOUNT_CREATED: 'Account created successfully!',
+    ACCOUNT_DELETED: 'Account deleted successfully!',
+    ALPHANUMERICVALIDATION: 'Failed: "account_name" must only contain alpha-numeric characters',
+    ALPHANUMERICVALIDATIONUSER: 'Failed: Error: "username" must only contain alpha-numeric characters',
+    ACCOUNT_EDITED: 'Account edited successfully!',
+    USER_CREATED: 'User created successfully!',
+    INCORRECTPWD_POPUP: 'Old password is incorrect.',
+    OLDPWDVERIFIED_POPUP: 'Old password verified successfully!',
+    DELETECURRENTUSER_POPUP: 'You cannot delete the currently logged in user.',
+    DELETE_USER: 'User deleted successfully!',
+    NODE_CREATE: 'Node Added Successfully!',
+    LICENSE_CREATE: 'License created successfully!',
+    ERROR_POPUP_WHEN_LOGIN: 'No active licenses found. Please contact support.',
+    JOB_STARTMSG: 'Job Started Successfully',
+    JOB_STOPMSG: 'Job Stoping Successfully',
+    JOB_CREATED: 'Job created successfully',
+    JOB_UPDATION: 'Job Updated Successfully!',
+    BULK_START_JOB: 'JOB_START action executed successfully.',
+    BULK_STOP_JOB: 'JOB_STOP action executed successfully.'
+};
+export const ValidationMessages = {
+    COUNTRY_REQUIRED: 'Country is required.',
+    NAME_REQUIRED: 'Account Name is required.',
+    USERNAME_REQUIRED: 'Username is required',
+    EMAIL_REQUIRED: 'Email is required',
+    ROLE_REQUIRED: 'Role is required',
+    PASSWORD_CHARACTERS: ' Password must be at least 8 characters, contain an uppercase letter, a lowercase letter, a number, and a special character ',
+    CONFIRMPASSWORD_REQUIRED: 'Confirm password is required',
+    INVALID_EMAIL_FORMAT: 'Enter a valid email address',
+    INVALID_MOBILE_NUMBER: 'Mobile number must be 10 digits',
+    // INVALID_EMAIL_FORMAT: 'Invalid email format',
+    PASSWORD_MUST_MATCH: 'Passwords must match',
+
+};

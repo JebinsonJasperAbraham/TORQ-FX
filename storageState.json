@@ -1,0 +1,66 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://10.0.90.64",
+      "localStorage": [
+        {
+          "name": "primaryColor",
+          "value": "{\"blue\":true,\"deep_pink\":false,\"eagle_green\":false,\"gold\":false,\"green\":false,\"orange\":false,\"pink\":false,\"purple\":false,\"tea_green\":false,\"yellow_green\":false}"
+        },
+        {
+          "name": "navState",
+          "value": "{\"reset\":true,\"isSmall\":false,\"hover\":false,\"hoverOpen\":false}"
+        },
+        {
+          "name": "account_id",
+          "value": "68fb61a57237228e3d1d525a"
+        },
+        {
+          "name": "appState",
+          "value": "{\"isMainDropdownOpen\":true,\"isCrmDropdownOpen\":false,\"isHrmDropdownOpen\":false,\"isEcommerceDropdownOpen\":false,\"isSubDropdownOpen\":false}"
+        },
+        {
+          "name": "componentState",
+          "value": "{\"isMainDropdownOpen\":true,\"advance\":false,\"multipleLevel\":false,\"firstLevel\":false,\"secondLevel\":false,\"isSubComponentDropdownOpen\":false}"
+        },
+        {
+          "name": "dashState",
+          "value": "{\"isMainDropdownOpen\":true}"
+        },
+        {
+          "name": "accountState",
+          "value": "{\"isMainDropdownOpen\":true}"
+        },
+        {
+          "name": "jobState",
+          "value": "{\"isMainDropdownOpen\":true,\"dropdownOpen\":{\"job\":true,\"account\":false,\"dashboard\":false,\"apps\":false,\"pages\":false,\"component\":false}}"
+        },
+        {
+          "name": "profileState",
+          "value": "{\"isMainDropdownOpen\":true}"
+        },
+        {
+          "name": "refreshToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZmI2MWI3NzIzNzIyOGUzZDFkNTI2ZiIsInVzZXJuYW1lIjoiYWxpY2UxIiwicm9sZSI6ImFkbWluIiwiYWNjb3VudF9pZCI6IjY4ZmI2MWE1NzIzNzIyOGUzZDFkNTI1YSIsImlhdCI6MTc2MTMwODM3OCwiZXhwIjoxNzYxMzk0Nzc4fQ.HRUo7GWNJ-g-xG8x9w-dYmxFm3I3qhxdA8K_MLYOimM"
+        },
+        {
+          "name": "role",
+          "value": "admin"
+        },
+        {
+          "name": "authToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZmI2MWI3NzIzNzIyOGUzZDFkNTI2ZiIsInVzZXJuYW1lIjoiYWxpY2UxIiwicm9sZSI6ImFkbWluIiwiYWNjb3VudF9pZCI6IjY4ZmI2MWE1NzIzNzIyOGUzZDFkNTI1YSIsImlhdCI6MTc2MTMwODM3OCwiZXhwIjoxNzYxMzExOTc4fQ.r3NBgt_EGUockXQTYzJTkWtTkR4_lPAY6cPg4KfDcoY"
+        },
+        {
+          "name": "username",
+          "value": "alice1"
+        },
+        {
+          "name": "pagesState",
+          "value": "{\"isMainDropdownOpen\":true,\"isSubDropdownOpen\":false,\"authentication\":false,\"error\":false,\"user\":false,\"additional\":false}"
+        }
+      ]
+    }
+  ]
+}

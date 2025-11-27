@@ -1,0 +1,23 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "smoke": "rimraf allure-results && (npx playwright test ./tests/TORQ/01_SmokeTest.spec.js || echo \"Tests failed\") && npx allure serve allure-results",
+    "account": "rimraf allure-results && (npx playwright test ./tests/TORQ/Account.spec.js || echo \"Tests failed\") && npx allure serve allure-results",
+    "io": "rimraf allure-results && (npx playwright test ./tests/TORQ/IO_COM.spec.js || echo \"Tests failed\") && npx allure serve allure-results",
+    "report": "npx allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18",
+    "allure-playwright": "^3.3.3",
+    "cross-var": "^1.1.0",
+    "rimraf": "^6.0.1"
+  }
+}

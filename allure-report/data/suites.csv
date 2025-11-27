@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3927","TS_01_SMOKE_TC2","chromium","Mon Aug 18 15:43:08 IST 2025","passed","Mon Aug 18 15:43:11 IST 2025","Login TO TORQ","01_SmokeTest.spec.js","",""
+"","31559","TS_01_SMOKE_TC1","chromium","Tue Aug 19 15:08:57 IST 2025","broken","Tue Aug 19 15:09:28 IST 2025","Login TO TORQ","01_SmokeTest.spec.js","",""
+"","3947","TC_66_Click on License Page","chromium","Tue Aug 19 15:05:32 IST 2025","passed","Tue Aug 19 15:05:36 IST 2025","Login with user","Account.spec.js","",""
